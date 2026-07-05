@@ -3,7 +3,7 @@ Hello 👋! I am Ali Akbar Awan from University of Engineering and Technology, L
 I have interests in App Development and Machine Learning. Currently Strengthning my foundations by focusing on Object Oriented Programming in C++. Also Starting out on Python😃!
 
 Skills:
-C++ Basics
+C++ Basics | HTML | CSS
 
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning Advanced C++ and Python Basics.
@@ -11,4 +11,3 @@ C++ Basics
 - Linkedin: www.linkedin.com/in/ali-akbar-awan-258895355
 - Instagram: ali__akbar_awan_
 - 😄 Pronouns: He/Him
--->
