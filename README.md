@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**Ali-A3/Ali-A3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hello 👋! I am Ali Akbar Awan from University of Engineering and Technology, Lahore studying BS Software Engineering.
+I have interests in App Development and Machine Learning. Currently Strengthning my foundations by focusing on Object Oriented Programming in C++. Also Starting out on Python😃!
+Skills:
+C++ Basics
+- 🔭 I’m currently working on this page.
+- 🌱 I’m currently learning Advanced C++ and Python Basics.
+- 📫 Contact me
+- Linkedin: www.linkedin.com/in/ali-akbar-awan-258895355
+- Instagram: ali__akbar_awan_
+- 😄 Pronouns: He/Him
 -->
